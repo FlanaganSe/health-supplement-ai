@@ -11,10 +11,10 @@ The vision is to be able to have a recommendation engine for supplements, nootro
 ## Additional:
 
 1. May need to store summaries of resaerch in a database. Potentially also research vectors if valuable for pulling research quickly 
-2. May want to pull from additional sources[3;below]
+2. May want to pull from additional sources[1;below]
 3. May want to have a recommendation for individual uses that takes their health / preferences into account
 
-## Leveraging Anecdotes
+## Leveraging Anecdotes[1]
 
 - Some supplements may have efficacy but lack formal research
 - Anecdotal evidence may be able to be used, in aggregate, to identify those that have efficacy. 
